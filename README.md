@@ -1,2 +1,2 @@
-# perpustaakandigital
+# perpustakaandigital
 Mencoba membuat perpustakaan digital
